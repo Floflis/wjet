@@ -1,7 +1,7 @@
 Please don't screenshot 📸
 🚧 Program is under construction 🚧👷‍♀️🏗
 
-# ipjet
+# wjet
 
 [ipget](https://github.com/ipfs/ipget), but faster 🚀
 
