@@ -7,7 +7,7 @@ Please don't screenshot 📸
 
 Download files from IPFS like if you were using wget; but safer (and now faster!)
 
-Made after [sh it](https://github.com/Floflis/shit) presented error trying `ipget --progress $1 -o /tmp/script.sh`
+Made after [sh it](https://github.com/Floflis/shit) presented error trying `ipget --progress QmVoGaTVUVzgHEwyyiKsYcQG36AFZezb1kvGEFPwYsyN92 -o /tmp/script.sh`
 
 # The trick: how does it works?
 
